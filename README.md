@@ -3,7 +3,7 @@
 Bem-vindo ao desafio de frontend! O objetivo deste desafio é avaliar suas habilidades com HTML, CSS e JavaScript na criação de uma página interativa.
 
 ## Objetivo
-Criar uma página web responsiva contendo uma lista de tarefas (To-Do List) onde os usuários possam adicionar, remover e marcar tarefas como concluídas.
+Criar uma página web responsiva contendo uma lista de tarefas (To-Do List) onde os usuários possam adicionar, listar, alterar, remover e marcar tarefas como concluídas.
 
 ## Tarefas e Commits
 
@@ -23,6 +23,7 @@ Criar uma página web responsiva contendo uma lista de tarefas (To-Do List) onde
 
 4. **Funcionalidade com JavaScript**
    - Criar função para adicionar tarefas na lista.
+   - Criar função listar tarefas ao serem adicionadas.
    - Permitir editar tarefas já adicionadas.
    - Criar funcionalidade para marcar tarefas como concluídas.
    - Criar opção para remover tarefas da lista.
